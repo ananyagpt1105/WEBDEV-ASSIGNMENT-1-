@@ -21,4 +21,4 @@ HTML
 ## Preview
 ![Preview](preview.png)
 ## Live Demo
-Live Demo: https://yourusername.github.io/html-personal-portfolio
+Live Demo: ananyagpt1105.github.io/html-personal-portfolio/
